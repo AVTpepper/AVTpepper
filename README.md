@@ -60,5 +60,3 @@ I'm eager to collaborate on projects that challenge me and help me grow. Feel fr
 ---
 
 I'm excited about the future of AI-driven development and can't wait to contribute to this dynamic field. Let's connect and create something amazing together!
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AVTpepper.AVTpepper)
