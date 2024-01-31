@@ -59,4 +59,4 @@ I'm eager to collaborate on projects that challenge me and help me grow. Feel fr
 
 ---
 
-I'm excited about the future of AI-driven development and can't wait to contribute to this dynamic field. Let's connect and create something amazing together!
+I'm passionate about crafting innovative solutions, helping others succeed through my solutions/strategies/guidance, and pushing the boundaries of web development to create impactful user experiences. Let's connect and create something amazing together!
